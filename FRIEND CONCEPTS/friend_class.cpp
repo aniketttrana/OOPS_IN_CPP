@@ -1,3 +1,5 @@
+// Friend function is non member function which can access private members of the class.
+
 #include <iostream>
 using namespace std;
 class XYZ
