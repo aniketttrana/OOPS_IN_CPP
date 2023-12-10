@@ -64,6 +64,7 @@
 // {
 //     derived obj;
 //     // with the help of this obj we can override the function of base class to child
+// kaam doosra krwa rhe hai derived class me . this is called function overriding
 //     obj.print(); // DERIVED CLASS
 // }
 
